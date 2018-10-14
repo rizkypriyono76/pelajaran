@@ -1,0 +1,453 @@
+
+/*  GRID warna putih   ==================================================================== */
+.putih{
+	background-color: #ffffff;
+}
+
+/*  GRID warna hitam   ==================================================================== */
+.hitam-1{
+	background-color: #000000;
+}
+.hitam-2{
+	background-color:#0d0d0d;
+}
+.hitam-3{
+	background-color:#1a1a1a;
+}
+.hitam-4{
+	background-color: #262626;
+}
+.hitam-5{
+	background-color:#333333;
+}
+.hitam-6{
+	background-color: #404040;
+}
+.hitam-7{
+	background-color:#4d4d4d;
+}
+.hitam-8{
+	background-color:#595959;
+}
+.hitam-9{
+	background-color:#666666;
+}
+.hitam-10{
+	background-color: #737373;
+}
+.hitam-11{
+	background-color:#808080;
+}
+.hitam-12{
+	background-color:#8c8c8c;
+}
+.hitam-13{
+	background-color: #999999;
+}
+.hitam-14{
+	background-color: #a6a6a6;
+}
+.hitam-15{
+	background-color: #b3b3b3;
+}
+.hitam-16{
+	background-color: #bfbfbf;
+}
+.hitam-17{
+	background-color: #cccccc;
+}
+.hitam-18{
+	background-color:#d9d9d9;
+}
+
+/*  GRID warna hijau   ==================================================================== */
+.hijau-1{
+	background-color: #001a00;
+}
+.hijau-2{
+	background-color: #003300;
+}
+.hijau-3{
+	background-color: #004d00;
+}
+.hijau-4{
+	background-color: #006600;
+}
+.hijau-5{
+	background-color: #008000;
+}
+.hijau-6{
+	background-color: #009900;
+}
+.hijau-7{
+	background-color: #00b300;
+}
+.hijau-8{
+	background-color: #00cc00;
+}
+.hijau-9{
+	background-color: #00e600;
+}
+.hijau-10{
+	background-color: #00ff00;
+}
+.hijau-11{
+	background-color: #1aff1a;
+}
+.hijau-12{
+	background-color: #33ff33;
+}
+.hijau-13{
+	background-color: #4dff4d;
+}
+.hijau-14{
+	background-color: #66ff66;
+}
+.hijau-15{
+	background-color: #80ff80;
+}
+.hijau-16{
+	background-color: #99ff99;
+}
+.hijau-17{
+	background-color: #b3ffb3;
+}
+.hijau-18{
+	background-color: #ccffcc;
+}
+
+/*  GRID warna merah   ==================================================================== */
+.merah-1{
+	background-color: #1a0000;
+}
+.merah-2{
+	background-color: #330000;
+}
+.merah-3{
+	background-color: #4d0000;
+}
+.merah-4{
+	background-color: #660000;
+}
+.merah-5{
+	background-color: #800000;
+}
+.merah-6{
+	background-color: #990000;
+}
+.merah-7{
+	background-color: #b30000;
+}
+.merah-8{
+	background-color: #e60000;
+}
+.merah-9{
+	background-color: #ff0000;
+}
+.merah-10{
+	background-color: #ff1a1a;
+}
+.merah-11{
+	background-color: #ff3333;
+}
+.merah-12{
+	background-color: #ff4d4d;
+}
+.merah-13{
+	background-color: #ff6666;
+}
+.merah-14{
+	background-color: #ff8080;
+}
+.merah-15{
+	background-color: #ff9999;
+}
+.merah-16{
+	background-color: #ffb3b3;
+}
+.merah-17{
+	background-color: #ffcccc;
+}
+.merah-18{
+	background-color: #ffe6e6;
+}
+
+/*  GRID warna biru   ==================================================================== */
+.biru-Tua-1{
+	background-color: #00001a;
+}
+.biru-Tua-2{
+	background-color:#000033;
+}
+.biru-Tua-3{
+	background-color:#00004d;
+}
+.biru-Tua-4{
+	background-color:#000066;
+}
+.biru-Tua-5{
+	background-color:#000080;
+}
+.biru-Tua-6{
+	background-color:#000099;
+}
+.biru-Tua-7{
+	background-color:#0000b3;
+}
+.biru-Tua-8{
+	background-color:#0000cc;
+}
+.biru-Tua-9{
+	background-color:#0000e6;
+}
+.biru-Tua-10{
+	background-color:#0000ff;
+}
+.biru-Tua-11{
+	background-color:#1a1aff;
+}
+.biru-Tua-12{
+	background-color:#3333ff;
+}
+.biru-Tua-13{
+	background-color:#4d4dff;
+}
+.biru-Tua-14{
+	background-color:#6666ff;
+}
+.biru-Tua-15{
+	background-color:#8080ff;
+}
+.biru-Tua-16{
+	background-color:#9999ff;
+}
+.biru-Tua-17{
+	background-color:#b3b3ff;
+}
+.biru-Tua-18{
+	background-color:#ccccff;
+}
+
+/*  GRID warna biru-muda   ==================================================================== */
+.biru-muda-1{
+	background-color:#00141a;
+}
+.biru-muda-2{
+	background-color:#002933;
+}
+.biru-muda-3{
+	background-color:#003d4d;
+}
+.biru-muda-4{
+	background-color:#005266;
+}
+.biru-muda-5{
+	background-color:#006680;
+}
+.biru-muda-6{
+	background-color:#007a99;
+}
+.biru-muda-7{
+	background-color:#008fb3;
+}
+.biru-muda-8{
+	background-color:#00a3cc;
+}
+.biru-muda-9{
+	background-color:#00b8e6;
+}
+.biru-muda-10{
+	background-color:#00ccff;
+}
+.biru-muda-11{
+	background-color:#1ad1ff;
+}
+.biru-muda-12{
+	background-color:#33d6ff;
+}
+.biru-muda-13{
+	background-color:#33d6ff;
+}
+.biru-muda-14{
+	background-color:#4ddbff;
+}
+.biru-muda-15{
+	background-color:#66e0ff;
+}
+.biru-muda-16{
+	background-color:#80e5ff;
+}
+.biru-muda-17{
+	background-color:#99ebff;
+}
+.biru-muda-18{
+	background-color:#b3f0ff;
+}
+
+/*  GRID warna kuning   ==================================================================== */
+.kuning-1{
+	background-color:#1a1a00;
+}
+.kuning-2{
+	background-color:#333300;
+}
+.kuning-3{
+	background-color:#4d4d00;
+}
+.kuning-4{
+	background-color:#666600;
+}
+.kuning-5{
+	background-color:#808000;
+}
+.kuning-6{
+	background-color:#999900;
+}
+.kuning-7{
+	background-color:#b3b300;
+}
+.kuning-8{
+	background-color:#cccc00;
+}
+.kuning-9{
+	background-color:#e6e600;
+}
+.kuning-10{
+	background-color:#ffff00;
+}
+.kuning-11{
+	background-color:#ffff1a;
+}
+.kuning-12{
+	background-color:#ffff33;
+}
+.kuning-13{
+	background-color:#ffff4d;
+}
+.kuning-14{
+	background-color:#ffff66;
+}
+.kuning-15{
+	background-color:#ffff80;
+}
+.kuning-16{
+	background-color:#ffff99;
+}
+.kuning-17{
+	background-color:#ffffb3;
+}
+.kuning-18{
+	background-color:#ffffcc;
+}
+
+/*  GRID warna ungu tua   ==================================================================== */
+.ungu-tua-1{
+	background-color: #1a001a;
+}
+.ungu-tua-2{
+	background-color:#330033;
+}
+.ungu-tua-3{
+	background-color:#4d004d;
+}
+.ungu-tua-4{
+	background-color:#660066;
+}
+.ungu-tua-5{
+	background-color:#800080;
+}
+.ungu-tua-6{
+	background-color:#990099;
+}
+.ungu-tua-7{
+	background-color:#b300b3;
+}
+.ungu-tua-8{
+	background-color:#cc00cc;
+}
+.ungu-tua-9{
+	background-color:#e600e6;
+}
+.ungu-tua-10{
+	background-color:#ff00ff;
+}
+.ungu-tua-11{
+	background-color:#ff1aff;
+}
+.ungu-tua-12{
+	background-color:#ff33ff;
+}
+.ungu-tua-13{
+	background-color:#ff4dff;
+}
+.ungu-tua-14{
+	background-color:#ff66ff;
+}
+.ungu-tua-15{
+	background-color:#ff80ff;
+}
+.ungu-tua-16{
+	background-color:#ff99ff;
+}
+.ungu-tua-17{
+	background-color:#ffb3ff;
+}
+.ungu-tua-18{
+	background-color:#ffccff;
+}
+
+/*  GRID warna ungu muda   ==================================================================== */
+.ungu-muda-1{
+	background-color:#1a000a;
+}
+.ungu-muda-2{
+	background-color:#330014;
+}
+.ungu-muda-3{
+	background-color:#4d001f;
+}
+.ungu-muda-4{
+	background-color:#660029;
+}
+.ungu-muda-5{
+	background-color:#800033;
+}
+.ungu-muda-6{
+	background-color:#99003d;
+}
+.ungu-muda-7{
+	background-color:#b30047;
+}
+.ungu-muda-8{
+	background-color:#cc0052;
+}
+.ungu-muda-9{
+	background-color:#e6005c;
+}
+.ungu-muda-10{
+	background-color:#ff0066;
+}
+.ungu-muda-11{
+	background-color:#ff1a75;
+}
+.ungu-muda-12{
+	background-color:#ff3385;
+}
+.ungu-muda-13{
+	background-color:#ff4d94;
+}
+.ungu-muda-14{
+	background-color:#ff66a3;
+}
+.ungu-muda-15{
+	background-color:#ff80b3;
+}
+.ungu-muda-16{
+	background-color:#ff99c2;
+}
+.ungu-muda-17{
+	background-color:#ffb3d1;
+}
+.ungu-muda-18{
+	background-color:#ffcce0;
+}

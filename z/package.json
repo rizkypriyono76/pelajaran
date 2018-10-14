@@ -1,0 +1,40 @@
+{
+  "name": "nyancss",
+  "version": "0.6.9-beta",
+  "description": "Modern Light and Smooth CSS Framework",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "pump": "^1.0.2",
+    "gulp-uglify": "^2.0.1",
+    "gulp-jade": "^1.1.0"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch sass/nyancss.scss:css/nyancss.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nyancodeid/nyancss.git"
+  },
+  "keywords": [
+    "css",
+    "indonesia",
+    "material design",
+    "css framwork",
+    "google",
+    "grid",
+    "flexbox"
+  ],
+  "bugs": {
+    "url": "https://github.com/nyancodeid/nyancss/issues"
+  },
+  "author": "Ryan Aunur Rassyid <ryandevstudio@gmail.com>",
+  "license": "MIT"
+}

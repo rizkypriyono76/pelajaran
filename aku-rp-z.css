@@ -1,0 +1,102 @@
+/*  GRID OF TWELVE   ============================================================================= */
+
+.rp-s-12 {
+	width: 100%;
+}
+
+.rp-s-11 {
+	width: 91.53%;
+}
+
+.rp-s-10 {
+	width: 83.06%;
+}
+
+.rp-s-9 {
+	width: 74.6%;
+}
+
+.rp-s-8 {
+	width: 66.13%;
+}
+
+.rp-s-7 {
+	width: 57.66%; 
+}
+
+.rp-s-6 {
+	width: 49.2%; 
+}
+
+.rp-s-5 {
+	width: 40.73%; 
+}
+
+.rp-s-4 {
+	width: 32.26%; 
+}
+
+.rp-s-3 {
+	width: 23.8%;
+}
+
+.rp-s-2 {
+	width: 15.33%; 
+}
+
+.rp-s-1 {
+	width: 6.86%; 
+}
+
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+
+@media only screen and (max-width: 480px) {
+.rp-s-12 {
+	width: 100%;
+}
+
+.rp-s-11 {
+	width: 100%;
+}
+
+.rp-s-10 {
+	width: 100%;
+}
+
+.rp-s-9 {
+	width: 100%;
+}
+
+.rp-s-8 {
+	width: 100%;
+}
+
+.rp-s-7 {
+	width: 100%;
+}
+
+.rp-s-6 {
+	width: 100%;
+}
+
+.rp-s-5 {
+	width: 100%;
+}
+
+.rp-s-4 {
+	width: 100%;
+}
+
+.rp-s-3 {
+	width: 100%;
+}
+
+.rp-s-2 {
+	width: 100%;
+}
+
+.rp-s-1 {
+	width: 100%;
+}
+}

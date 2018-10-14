@@ -1,0 +1,57 @@
+/*  GRID tinggi   ==================================================================== */
+.tinggi-1{
+	height:50px;
+}
+.tinggi-2{
+	height:100px;
+}
+.tinggi-3{
+	height:150px;
+}
+.tinggi-4{
+	height:200px;
+}
+.tinggi-5{
+	height:250px;
+}
+.tinggi-6{
+	height:300px;
+}
+.tinggi-7{
+	height:350px;
+}
+.tinggi-8{
+	height:400px;
+}
+.tinggi-9{
+	height:450px;
+}
+.tinggi-10{
+	height:500px;
+}
+.tinggi-11{
+	height:550px;
+}
+.tinggi-12{
+	height:600px;
+}
+
+
+@media only screen and (max-width: 480px) {
+.tinggi2{
+	height:100px;
+}
+}
+
+
+
+
+
+.fontart{
+	font-size:250%;
+}
+@media only screen and (max-width: 480px) {
+.fontart{
+	font-size:150%;
+}
+}
